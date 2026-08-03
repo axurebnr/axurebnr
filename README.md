@@ -1,6 +1,6 @@
 # Hi 👋, I'm axurebnr
 
-### A passionate developer from around the world
+### A passionate developer from China
 
 - 🔭 I'm currently working on **curio-vault,a mobile app**
 
