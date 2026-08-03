@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **axurebnr@gmail.com**
 
-- ⚡ Fun fact **i am fond of flight-simulation**
+- ⚡ Fun fact **is that i am fond of flight-simulation,especially Airbus A320✈️**
 
 - 👨‍💻 All of my projects are available at **[https://www.axurebnr.top/](https://www.axurebnr.top/)**
 
