@@ -6,7 +6,7 @@
 
 - 🌱 I'm currently learning **Electron、Typescript**
 
-- 👯 I'm looking to collaborate on **...**
+- 👯 I'm looking to collaborate on **tools, experiments, and carefully crafted interactions**
 
 - 🤝 I'm looking for help with **mobile app uploading to Google play and Apple store**
 
