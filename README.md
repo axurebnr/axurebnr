@@ -4,7 +4,7 @@
 
 - 🔭 I'm currently working on **curio-vault,a mobile app**
 
-- 🌱 I'm currently learning **Electron、Typescript**
+- 🌱 I'm currently learning **Electron and Typescript**
 
 - 👯 I'm looking to collaborate on **tools, experiments, and carefully crafted interactions**
 
