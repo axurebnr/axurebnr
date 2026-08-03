@@ -2,8 +2,6 @@
 
 ### A passionate developer from around the world
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=axurebnr&label=Profile views&color=0e75b6&style=flat" alt="axurebnr" /> </p>
-
 - 🔭 I'm currently working on **curio-vault,a mobile app**
 
 - 🌱 I'm currently learning **Electron、Typescript**
