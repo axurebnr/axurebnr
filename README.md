@@ -1,8 +1,8 @@
 # Hi 👋, I'm axurebnr
 
-### A passionate developer from China
+### A passionate developer from China, continuously building between code, tools, and new ways to interact.
 
-- 🔭 I'm currently working on **curio-vault,a mobile app**
+- 🔭 I'm currently working on **curio-vault, a mobile app**
 
 - 🌱 I'm currently learning **Electron and Typescript**
 
